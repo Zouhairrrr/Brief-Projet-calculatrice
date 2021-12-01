@@ -69,3 +69,29 @@ Here are some use cases (abilities your project needs to have):
 7. BONUS: Users can get floating point numbers if they do the math required to get one, but they can’t type them in yet. Add a `.` button and let users input decimals! Make sure you don’t let them type more than one though: `12.3.56.5`. It is hard to do math on these numbers. (disable the decimal button if there’s already one in the display)
 8. BONUS: Make it look nice! This can be a good portfolio project… but not if it’s UGLY. At least make the operations a different color from the keypad buttons.
 9. BONUS: Add a “backspace” button, so the user can undo if they click the wrong number.
+
+Les questions JAVASCRIPT
+
+
+Qu’est-ce que JavaScript?
+
+Quels sont les types de données natifs existants en Javascript
+Quels sont les avantages de JavaScript?
+Comment définir une fonction en JavaScript?
+Quelle est la différence entre == et === ?
+Qu’est-ce qu’une “closure” et comment/pourquoi en utiliser une ?
+Pourquoi JavaScript est un langage multi-paradigme ?
+Quelle est la différence entre l’héritage classique et l’héritage prototypique ?
+Quelle est la différence entre les variables non déclarées et non définies ?
+Qu'est-ce que le « mode strict » de JavaScript ?
+Qu'est-ce que le levage "hoisting" JavaScript ?
+Qu'est-ce que la délégation d'événement?
+Qu'est-ce que le DOM et BOM ?
+Expliquez comment fonctionne this en Javascript?
+Quelle est la différence entre une variable null, undefined et non déclarée ?
+Quelle est l’utilisation typique d’une fonction anonyme ?
+Différence entre: function Person() {}, var person = Person() et var person = new Person() ?
+Quelle est la différence entre un “attribut” et une “propriété” ?
+Qu’est-ce que "use strict";? Quels sont les avantages et désavantages de son utilisation ?
+Quelles sont les différences entre les variables crées en utilisant let, var ou const ?
+ 
